@@ -1,10 +1,17 @@
 {
   "name": "vue-in-viewport-mixin-js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Temporary fix until vue-in-viewport-mixin is \"decaffinated\".",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "window-event-mediator": "^0.3.1",
+    "scrollmonitor": "^1.1.3"
+  },
+  "peerDependencies": {
+    "vue": "2.x"
   },
   "author": "info@bukwild.com, joshua.harris.developer@gmail.com",
   "license": "MIT"
