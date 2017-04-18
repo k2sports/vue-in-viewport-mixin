@@ -1,0 +1,11 @@
+{
+  "name": "vue-in-viewport-mixin-js",
+  "version": "1.0.0",
+  "description": "Temporary fix until vue-in-viewport-mixin is \"decaffinated\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "info@bukwild.com",
+  "license": "MIT"
+}
